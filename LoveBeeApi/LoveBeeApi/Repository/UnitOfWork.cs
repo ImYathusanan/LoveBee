@@ -17,9 +17,9 @@ namespace LoveBeeApi.Repository
             Auth = new AuthRepository(context);
         }
 
-        public void Complete()
+        public async Task CompleteAsync()
         {
-            _context.SaveChangesAsync();
+            await _context.SaveChangesAsync();
         }
     }
 }

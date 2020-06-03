@@ -9,6 +9,6 @@ namespace LoveBeeApi.Repository
     {
         IAuthRepository Auth { get; }
 
-        void Complete();
+        Task CompleteAsync();
     }
 }

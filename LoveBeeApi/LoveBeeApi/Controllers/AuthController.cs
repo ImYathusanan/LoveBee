@@ -43,8 +43,9 @@ namespace LoveBeeApi.Controllers
                 Username = userRegisterDto.Username
             };
 
-            var createdUser = await _unitOfWork.Auth.Register(newUser, userRegisterDto.Password);
-
+             await _unitOfWork.Auth.Register(newUser, userRegisterDto.Password);
+             await _unitOfWork.CompleteAsync();
+             
             return StatusCode(201);
         }
 

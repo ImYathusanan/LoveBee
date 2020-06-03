@@ -34,6 +34,10 @@ namespace LoveBeeApi
                      (options => options.UseSqlServer(Configuration.GetConnectionString("ConnectionLoveBee")));
 
             services.AddScoped<IUnitOfWork, UnitOfWork>();
+            //services.AddSpaStaticFiles(configuration =>
+            //{
+            //    configuration.RootPath = "FrontEnd/dist";
+            //});
             services.AddControllers();
             services.AddCors();
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
@@ -71,6 +75,11 @@ namespace LoveBeeApi
             {
                 endpoints.MapControllers();
             });
+            //app.UseSpaStaticFiles();
+            //app.UseSpa(spa =>
+            //{
+            //    spa.Options.SourcePath = "FrontEnd";
+            //});
         }
     }
 }

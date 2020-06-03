@@ -129,6 +129,16 @@ D:\.NetCoreFullStackProjects\LoveBee\LoveBeeApi\LoveBeeApi\bin\Debug\netcoreapp3
 D:\.NetCoreFullStackProjects\LoveBee\LoveBeeApi\LoveBeeApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\.NetCoreFullStackProjects\LoveBee\LoveBeeApi\LoveBeeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 D:\.NetCoreFullStackProjects\LoveBee\LoveBeeApi\LoveBeeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.NetCoreFullStackProjects\LoveBee\LoveBeeApi\LoveBeeApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+D:\.NetCoreFullStackProjects\LoveBee\LoveBeeApi\LoveBeeApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+D:\.NetCoreFullStackProjects\LoveBee\LoveBeeApi\LoveBeeApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\.NetCoreFullStackProjects\LoveBee\LoveBeeApi\LoveBeeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\.NetCoreFullStackProjects\LoveBee\LoveBeeApi\LoveBeeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\.NetCoreFullStackProjects\LoveBee\LoveBeeApi\LoveBeeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\.NetCoreFullStackProjects\LoveBee\LoveBeeApi\LoveBeeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\.NetCoreFullStackProjects\LoveBee\LoveBeeApi\LoveBeeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\.NetCoreFullStackProjects\LoveBee\LoveBeeApi\LoveBeeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 D:\.NetCoreFullStackProjects\LoveBee\LoveBeeApi\LoveBeeApi\obj\Debug\netcoreapp3.1\LoveBeeApi.csproj.CoreCompileInputs.cache
+D:\.NetCoreFullStackProjects\LoveBee\LoveBeeApi\LoveBeeApi\obj\Debug\netcoreapp3.1\LoveBeeApi.MvcApplicationPartsAssemblyInfo.cs
 D:\.NetCoreFullStackProjects\LoveBee\LoveBeeApi\LoveBeeApi\obj\Debug\netcoreapp3.1\LoveBeeApi.MvcApplicationPartsAssemblyInfo.cache
 D:\.NetCoreFullStackProjects\LoveBee\LoveBeeApi\LoveBeeApi\obj\Debug\netcoreapp3.1\LoveBeeApi.csprojAssemblyReference.cache
